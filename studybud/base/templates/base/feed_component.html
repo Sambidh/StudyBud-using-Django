@@ -10,11 +10,13 @@
       </div>
       <span>@{{room.host.username}}</span>
     </a>
+
     <div class="roomListRoom__actions">
       <span>{{room.created|timesince}} ago</span>
     </div>
   </div>
   <div class="roomListRoom__content">
+    <b>Room: </b>
     <a href="{% url 'room' room.id %}">{{room.name}}</a>
   </div>
   <div class="roomListRoom__meta">

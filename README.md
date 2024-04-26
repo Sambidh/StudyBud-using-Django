@@ -5,7 +5,7 @@ Introducing Studybuddy, a Django-powered platform offering a Discord-like enviro
 
 ## Deployment
 
-Please go through 'requeirements.txt' before deploying. You can create a virtual environment for that.
+Please go through 'requirements.txt' before deploying. You can create a virtual environment for that.
 
 First, you have to be inside of the folder 'iblogs' which you can do it by running following commands.
 
